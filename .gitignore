@@ -9,6 +9,10 @@ build/
 .next/
 out/
 
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+
 # Environment and local config
 .env
 .env.*
