@@ -4,10 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% block title %}mid-way{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    {% block head_extra %}{% endblock %}
   </head>
-  <body>
-    <main>
+  <body class="min-h-screen bg-slate-50 text-slate-950 antialiased">
+    <main class="mx-auto flex min-h-screen w-full max-w-5xl flex-col px-6 py-10 sm:px-8">
       {% block content %}{% endblock %}
     </main>
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+    {% block body_extra %}{% endblock %}
   </body>
 </html>
