@@ -6,7 +6,7 @@ new contributor can pick one up in a focused branch.
 ## Project Foundation
 
 - [x] Create the initial FastAPI app structure.
-- [ ] Add a health check endpoint.
+- [x] Add a health check endpoint.
 - [ ] Add a basic Jinja page layout.
 - [ ] Add HTMX and Tailwind CSS to the frontend scaffold.
 - [ ] Add a simple local development command to the README once the app exists.
@@ -41,7 +41,7 @@ new contributor can pick one up in a focused branch.
 
 ## Quality and Collaboration
 
-- [ ] Add the first pytest test once application code exists.
+- [x] Add the first pytest test once application code exists.
 - [ ] Add CI checks for Ruff and pytest.
 - [ ] Keep new work on branches named `feature/...`, `fix/...`, `docs/...`, `chore/...`,
       `refactor/...`, or `test/...`.
