@@ -7,7 +7,7 @@ new contributor can pick one up in a focused branch.
 
 - [x] Create the initial FastAPI app structure.
 - [x] Add a health check endpoint.
-- [ ] Add a basic Jinja page layout.
+- [x] Add a basic Jinja page layout.
 - [ ] Add HTMX and Tailwind CSS to the frontend scaffold.
 - [ ] Add a simple local development command to the README once the app exists.
 
