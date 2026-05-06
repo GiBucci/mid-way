@@ -5,7 +5,7 @@ new contributor can pick one up in a focused branch.
 
 ## Project Foundation
 
-- [ ] Create the initial FastAPI app structure.
+- [x] Create the initial FastAPI app structure.
 - [ ] Add a health check endpoint.
 - [ ] Add a basic Jinja page layout.
 - [ ] Add HTMX and Tailwind CSS to the frontend scaffold.
