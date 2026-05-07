@@ -11,3 +11,5 @@ def test_home_renders_jinja_layout() -> None:
     assert response.status_code == 200
     assert response.headers["content-type"].startswith("text/html")
     assert "mid-way" in response.text
+    assert "cdn.tailwindcss.com" in response.text
+    assert "htmx.org" in response.text
