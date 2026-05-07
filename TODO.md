@@ -43,5 +43,5 @@ new contributor can pick one up in a focused branch.
 
 - [x] Add the first pytest test once application code exists.
 - [x] Add CI checks for Ruff and pytest.
-- [ ] Keep new work on branches named `feature/...`, `fix/...`, `docs/...`, `chore/...`,
+- [x] Keep new work on branches named `feature/...`, `fix/...`, `docs/...`, `chore/...`,
       `refactor/...`, or `test/...`.
