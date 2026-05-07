@@ -12,6 +12,7 @@ out/
 # Tool caches
 .pytest_cache/
 .ruff_cache/
+__pycache__/
 
 # Environment and local config
 .env
