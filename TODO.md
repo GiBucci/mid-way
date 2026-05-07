@@ -13,7 +13,7 @@ new contributor can pick one up in a focused branch.
 
 ## Event Creation
 
-- [ ] Define the event data model.
+- [x] Define the event data model.
 - [ ] Create a page where an organizer can create an event.
 - [ ] Add fields for event name, date, city or area, and optional place category.
 - [ ] Generate a shareable event link after creation.
